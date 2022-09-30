@@ -26,10 +26,18 @@
 
 
 ***
-
+# Works
+Project  | Date | Execution Organization | Skill | Link
+---------------------------|------|-------|-----------------|---------------------|
+chair_naver_project | 2022.06 | Alphaco | Crawling, EDA | [chair_naver_project](https://github.com/bibiana1202/chair_naver_project)	  
+	  
+	 	  
 ___
-
-
+# Study Log
+Skill | Link | etc 
+|--------|--------|------|	  
+Python&ML,DL basic | [Python&ML,DL basic](https://www.notion.so/wew1202/1-2ec144618cd747049c5dfa452db51fbc) | 	  
+	  
 *기울기1*
 _기울기2_
 
