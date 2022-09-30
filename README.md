@@ -3,9 +3,8 @@
 ![soft](https://capsule-render.vercel.app/api?type=soft&color=2F4F4F&height=60&text=기록되지%20않은%20일은%20일어나지%20않은%20일과%20마찬가지다-버지니아%20울프&fontSize=15&animation=twinkling)
 
  
-## PROFILE 
 ---
-
+## PROFILE 
 * ### Name : 박혜정
 * ### Contact 
   <a href="mailto:wew1202@naver.com"><img src="https://img.shields.io/badge/Naver Mail-03C75A?style=for-the-badge&logo=Naver&logoColor=white">
