@@ -1,7 +1,10 @@
 ## PROFILE <a id="HYE JUNG GITHUB">
 ![header](https://capsule-render.vercel.app/api?type=Rounded&color=556B2F&height=300&section=header&text=HYEJUNG%20GITHUB%20&fontSize=80&desc=RN-Engineer,writer%20&descAlignY=80&descAlign=50)
+
+![soft](https://capsule-render.vercel.app/api?type=soft&color=2F4F4F&height=60&text=기록되지%20않은%20일은%20일어나지%20않은%20일과%20마찬가지다-버지니아%20울프&fontSize=15&animation=twinkling)
+
  
-              기록되지 않은 일은 일어나지 않은 일과 마찬가지다-버지니아 울프
+                 	        
 ---
 
 ***
