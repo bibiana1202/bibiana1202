@@ -17,7 +17,7 @@
   * 한국외국어대학교 글로벌캠퍼스 컴퓨터공학과 졸업 (2012~2017)
 
 * ### Certification
-  * 간호사 면허 취득(22.02.16)
+  * 간호사 면허 (보건복지부, 22.02.16)
 
 * ### Tech Stack
   * **Platforms & Languages** <br><br> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"><img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"><br><img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=for-the-badge&logo=Pytorch&logoColor=white"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white">
