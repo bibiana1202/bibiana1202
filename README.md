@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Rounded&color=556B2F&height=300&section=header&text=HYEJUNG%20GITHUB%20&fontSize=80&desc=RN-Engineer-writer%20&descAlignY=80&descAlign=50)
+![header](https://capsule-render.vercel.app/api?type=Rounded&color=556B2F&height=200&section=header&text=HYEJUNG%20GITHUB%20&fontSize=80&desc=RN-Engineer-writer%20&descAlignY=80&descAlign=50)
 
 ![soft](https://capsule-render.vercel.app/api?type=soft&color=2F4F4F&height=60&text=기록되지%20않은%20일은%20일어나지%20않은%20일과%20마찬가지다-버지니아%20울프&fontSize=15&animation=twinkling)
 
@@ -16,7 +16,7 @@
   * 한국외국어대학교 글로벌캠퍼스 컴퓨터공학과 졸업 (2012~2017)
 
 * ### license
-  * 간호사 면허 (보건복지부, 22.02.16)
+  * 간호사 (보건복지부, 22.02.16)
 
 * ### Tech Stack
   * **Platforms & Languages** <br><br> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"><br><img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=for-the-badge&logo=Pytorch&logoColor=white"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white">
