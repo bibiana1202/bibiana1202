@@ -29,9 +29,9 @@
 Project  | Date | Execution Organization | Skill | Link
 ---------------------------|------|-------|-----------------|---------------------|
 chair_naver_project | 2022.06 | Alphaco | Crawling,preprocessing,text mining, EDA | [chair_naver_project](https://github.com/bibiana1202/chair_naver_project)	  
-montage_project | 2022.06 | Alphaco | image classification | [montage_project](https://github.com/bibiana1202/montage_project)	  
+montage_project | 2022.07 | Alphaco | image classification | [montage_project](https://github.com/bibiana1202/montage_project)	  
+lyrics_generator_project | 2022.08 | Alphaco | NLP | [lyrics_generator_project](	  https://github.com/bibiana1202/lyrics_generator_project)	  
 
-	  
 	 	  
 ___
 # Study Log
