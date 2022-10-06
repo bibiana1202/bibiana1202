@@ -39,5 +39,5 @@ Skill | Link | etc
 |--------|--------|------|	  
 Python&ML,DL basic | [Python&ML,DL basic](https://www.notion.so/wew1202/1-2ec144618cd747049c5dfa452db51fbc) | 	  
 Text mining | [Text mining](https://www.notion.so/wew1202/2-c23b32e178ed47a0accea1af5d086c73) | 
-Reference study | [reference_study](https://github.com/bibiana1202/reference_study/blob/main/README.md) | Image Detection
+Reference study | [reference_study](https://github.com/bibiana1202/reference_study) | Image Detection
 
