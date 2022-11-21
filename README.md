@@ -33,7 +33,7 @@ Project  | Date | Execution Organization | Skill | Link
 공항 보안시설 X-ray scan 프로젝트 | 2022.07 | Alphaco | Image Object Detection | [xrayscan_project](https://github.com/bibiana1202/xrayscan_project)	  	  
 음악 가사 생성 프로젝트 | 2022.08 | Alphaco | NLP | [lyrics_generator_project](	  https://github.com/bibiana1202/lyrics_generator_project)	
 VinBigData Chest X-ray 프로젝트 | 2022.08 | Alphaco | Image Object Detection | [VinBigData-Chest-X-ray-Image-Detection](https://github.com/bibiana1202/VinBigData-Chest-X-ray-Image-Detection)	
-유방암 임파선 전이 여부 예측 프로젝트 | 2022.08 | Alphaco | Image Classfication | [Prediction of lymphadenopathy in breast cancer](https://github.com/bibiana1202/Prediction of lymphadenopathy in breast cancer)	
+유방암 임파선 전이 여부 예측 프로젝트 | 2022.08 | Alphaco | Image Classfication | [Prediction of lymphadenopathy in breast cancer](https://github.com/bibiana1202/Prediction-of-lymphadenopathy-in-breast-cancer)	
 
 
 	 	  
