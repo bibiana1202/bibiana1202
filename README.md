@@ -30,8 +30,11 @@ Project  | Date | Execution Organization | Skill | Link
 ---------------------------|------|-------|-----------------|---------------------|
 네이버 쇼핑 리뷰 감성 분석 프로젝트 | 2022.06 | Alphaco | Crawling,preprocessing,text mining, EDA | [chair_naver_project](https://github.com/bibiana1202/chair_naver_project)	  
 얼굴 인식 프로젝트 | 2022.07 | Alphaco | Image Classfication | [montage_project](https://github.com/bibiana1202/montage_project)	  
-공항 보안시설 X-ray scan 프로젝트 | 2022.07 | Alphaco | Object Detection | [xrayscan_project](https://github.com/bibiana1202/xrayscan_project)	  	  
-lyrics_generator_project | 2022.08 | Alphaco | NLP | [lyrics_generator_project](	  https://github.com/bibiana1202/lyrics_generator_project)	  
+공항 보안시설 X-ray scan 프로젝트 | 2022.07 | Alphaco | Image Object Detection | [xrayscan_project](https://github.com/bibiana1202/xrayscan_project)	  	  
+음악 가사 생성 프로젝트 | 2022.08 | Alphaco | NLP | [lyrics_generator_project](	  https://github.com/bibiana1202/lyrics_generator_project)	
+VinBigData Chest X-ray 프로젝트 | 2022.08 | Alphaco | Image Object Detection | [lyrics_generator_project](	  https://github.com/bibiana1202/lyrics_generator_project)	
+유방암 임파선 전이 여부 예측 프로젝트 | 2022.08 | Alphaco | Image Classfication | [lyrics_generator_project](	  https://github.com/bibiana1202/lyrics_generator_project)	
+
 
 	 	  
 ___
