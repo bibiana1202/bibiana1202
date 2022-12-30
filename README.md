@@ -9,7 +9,6 @@
 * ### Contact 
   <a href="mailto:wew1202@naver.com"><img src="https://img.shields.io/badge/Naver Mail-03C75A?style=for-the-badge&logo=Naver&logoColor=white">
   <a href="https://www.notion.so/wew1202/aa413c04300741cf99b9141ae8b676e8">![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-  <a href="mailto:wew1202@naver.com">![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)
   
 * ### Level of Education
   * 서울여자간호대학교 간호학과 졸업 (2018~2022)
