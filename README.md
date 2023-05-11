@@ -8,7 +8,7 @@
 * ### Name : 박혜정
 * ### Contact 
   <a href="mailto:wew1202@naver.com"><img src="https://img.shields.io/badge/Naver Mail-03C75A?style=for-the-badge&logo=Naver&logoColor=white">
-  <a href="https://www.notion.so/wew1202/cc7e228feb7244f0b1ccda83b943c749">![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+   <a href="https://wew1202.notion.site/cc7e228feb7244f0b1ccda83b943c749">![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
   
 * ### Level of Education
   * 서울여자간호대학교 간호학과 졸업 (2018~2022)
