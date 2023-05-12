@@ -83,14 +83,6 @@ Date | Skill | Link | etc
 	<img height="180em" src="http://mazandi.herokuapp.com/api?handle=wew1202&theme=dark">
 </p>
 
-***
-	[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=organize1202)](https://github.com/loosie/github-readme-tistory-card)
-	
-	
-	
-	
-[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api/badge?name=organize1202&postId=default&theme=tistory)](https://github.com/loosie/github-readme-tistory-card)
-
 
 ***
 
