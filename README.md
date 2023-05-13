@@ -6,7 +6,7 @@
 ---
 ## PROFILE 
 * ### Name : 박혜정 <a href="mailto:wew1202@naver.com"><img src="https://img.shields.io/badge/Naver Mail-03C75A?style=plastic&logo=Naver&logoColor=white">
-* ### Blog : <a href="https://wew1202.notion.site/cc7e228feb7244f0b1ccda83b943c749">![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=plastic&logo=notion&logoColor=white) <a href="https://wew1202.notion.site/cc7e228feb7244f0b1ccda83b943c749">![Tistory](https://img.shields.io/badge/Tistory-%23000000.svg?style=plastic&logo=tistory&logoColor=#000000)
+* ### Blog : <a href="https://wew1202.notion.site/cc7e228feb7244f0b1ccda83b943c749">![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=plastic&logo=notion&logoColor=white) <a href="https://organize1202.tistory.com/">![Tistory](https://img.shields.io/badge/Tistory-%23000000.svg?style=plastic&logo=tistory&logoColor=#000000)
 
 * ### Level of Education
   * 서울여자간호대학교 간호학과 졸업 (2018~2022)
