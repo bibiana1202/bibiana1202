@@ -78,7 +78,7 @@ Date | Skill | Link | etc
 - [Prediction of lymphadenopathy in breast cancer](https://github.com/bibiana1202/public-4th-place-DACON-AI-competition-for-predicting-lymphadenopathy-of-breast-cancer)
 	
 ***
-<p>
+<p align="center">
 	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=bibiana1202&theme=darcula&show_icons=true">
 </p>
 
