@@ -80,7 +80,6 @@ Date | Skill | Link | etc
 ***
 <p>
 	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=bibiana1202&theme=darcula&show_icons=true">
-	<img height="180em" src="http://mazandi.herokuapp.com/api?handle=wew1202&theme=dark">
 </p>
 
 
