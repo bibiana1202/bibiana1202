@@ -20,6 +20,7 @@
 	<br><img src="https://img.shields.io/badge/visual%20basic%206-007ACC?style=flat-square">
 	<img src="https://img.shields.io/badge/oracle-F80000?style=flat-square&logo=oracle&logoColor=white">
 	<img src="https://img.shields.io/badge/golden-FFE005?style=flat-square&logoColor=white">
+ 	<img src="https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white"/>
 
 	
   * **WEB(Backend)**
@@ -43,7 +44,7 @@
 	<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white">
 	
   * **ETC** 
-	<br> <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white"/>
+	<br> 
 	<img src="https://img.shields.io/badge/unity-%23000000.svg?style=flat-square&logo=unity&logoColor=white"/>
 	<img src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white"/>
 	  
