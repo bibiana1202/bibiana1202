@@ -17,7 +17,7 @@
 
 * ### Tech Stack
   * **Windows Application(HIS)**
-	<br><img src="https://img.shields.io/badge/visual%20basic%206-007ACC?style=flat-square">
+	<br><img src="https://img.shields.io/badge/Visual%20Basic%206-007ACC?style=flat-square">
  	<img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=Visual Studio&logoColor=white"> 
  	<img src="https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white"/>
 	<img src="https://img.shields.io/badge/oracle-F80000?style=flat-square&logo=oracle&logoColor=white">
