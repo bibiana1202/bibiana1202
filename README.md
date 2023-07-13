@@ -65,7 +65,7 @@ Date | Skill | Link | etc
 2022|algorithm_study| [algorithm_study](https://github.com/bibiana1202/algorithm_study) | 
 2022|Flask| [Flask](https://github.com/bibiana1202/Flask) | 
 2023|Unity&C#| [Unity&C#](https://github.com/bibiana1202/Unity-for-fun) | 	   
-2023|java/spring | [java/spring](https://organize1202.tistory.com/category/Anna/java_spring)|
+2023|java/spring | [java/spring](https://organize1202.tistory.com/category/Anna%20belly%20belly%20hard/java_spring)|
 2023| C#-Winform | [Winform](https://github.com/bibiana1202/Csharp-winformSQL)|
 2023| C#-WPF | [WPF]() |
 
