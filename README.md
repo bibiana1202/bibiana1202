@@ -31,7 +31,9 @@
 	<img src="https://img.shields.io/badge/spring-6DB33F?style=flat-square&logo=spring&logoColor=white">
 	<img src="https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white">
 	<img src="https://img.shields.io/badge/gradle-02303A?style=flat-square&logo=gradle&logoColor=white">
-	<img src="https://img.shields.io/badge/ASP.NET-FFE005?style=flat-square&logoColor=white">
+	<img src="https://img.shields.io/badge/ASP.NET-2986cc?style=flat-square&logoColor=white">
+ 	<img src="https://img.shields.io/badge/javascript-16537e?style=flat-square&logoColor=white">
+  	<img src="https://img.shields.io/badge/vbscript-ce7e00?style=flat-square&logoColor=white">
 
 
   * **ML&DL**
