@@ -23,7 +23,7 @@
 	<img src="https://img.shields.io/badge/oracle-F80000?style=flat-square&logo=oracle&logoColor=white">
 	<img src="https://img.shields.io/badge/golden-FFE005?style=flat-square&logoColor=white">
 	
-  * **WEB(Backend)**
+  * **WEB**
 	<br><img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=OpenJDK&logoColor=white"/>
 	<img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=white">
 	<img src="https://img.shields.io/badge/intellijidea-000000?style=flat-square&logo=intellijidea&logoColor=white">
@@ -31,7 +31,7 @@
 	<img src="https://img.shields.io/badge/spring-6DB33F?style=flat-square&logo=spring&logoColor=white">
 	<img src="https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white">
 	<img src="https://img.shields.io/badge/gradle-02303A?style=flat-square&logo=gradle&logoColor=white">
-
+	<img src="https://img.shields.io/badge/ASP.NET-FFE005?style=flat-square&logoColor=white">
 
 
   * **ML&DL**
