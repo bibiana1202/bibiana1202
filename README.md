@@ -80,7 +80,7 @@ Date | Skill | Link | etc
 - [음악 가사 생성 프로젝트](https://github.com/bibiana1202/lyrics_generator_project)	
 - [VinBigData-Chest-X-ray-Image-Detection](https://github.com/bibiana1202/VinBigData-Chest-X-ray-Image-Detection)	
 - [Prediction of lymphadenopathy in breast cancer](https://github.com/bibiana1202/public-4th-place-DACON-AI-competition-for-predicting-lymphadenopathy-of-breast-cancer)
-	
+- 2023~2024 : EMR/OCS 개발자 (진료간호)	
 ***
 <p align="center">
 	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=bibiana1202&theme=darcula&show_icons=true">
