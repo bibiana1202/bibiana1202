@@ -9,11 +9,9 @@
 * ### Blog : <a href="https://park-hye-jung.notion.site/">![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=plastic&logo=notion&logoColor=white) <a href="https://organize1202.tistory.com/">![Tistory](https://img.shields.io/badge/Tistory-%23000000.svg?style=plastic&logo=tistory&logoColor=#000000)
 
 * ### Level of Education
-  * 서울여자간호대학교 간호학과 졸업 (2018~2022)
   * 한국외국어대학교 글로벌캠퍼스 컴퓨터공학과 졸업 (2012~2017)
 
 * ### license
-  * 간호사 (보건복지부, 22.02.16)
 
 * ### Tech Stack
   * **Windows Application(HIS)**
