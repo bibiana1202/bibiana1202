@@ -74,7 +74,7 @@ Date | Skill | Link | etc
 2022|Reference study | [reference_study](https://github.com/bibiana1202/reference_study) | Image Detection
 2022|algorithm_study| [algorithm_study](https://github.com/bibiana1202/algorithm_study) | 
 2022|Flask| [Flask](https://github.com/bibiana1202/Flask) | 
-2024|개인공부| [개인공부](https://github.com/bibiana1202/Study) | 	   
+2024|개인공부| [Study](https://github.com/bibiana1202/Study) | 	   
 2024|MSA 기반 Full Stack 개발 전문가 양성 과정 작업 공간 | [MFS_workspace](https://github.com/bibiana1202/MFS_workspace)|
 2024|MSA 기반 Full Stack 개발 전문가 양성 과정 작업 공간_1| [MFS_workspace_2024-11-06](https://github.com/bibiana1202/MFS_workspace_2024-11-06)|
 
