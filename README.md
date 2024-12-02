@@ -65,6 +65,20 @@
 - [Prediction of lymphadenopathy in breast cancer](https://github.com/bibiana1202/public-4th-place-DACON-AI-competition-for-predicting-lymphadenopathy-of-breast-cancer)
 - [Spring 레거시 프로젝트 - EmotionLog](https://github.com/bibiana1202/emotionLog)
 ***
+
+# Study Log
+Date | Skill | Link | etc 
+|--------|--------|--------|------|	  
+2022|Python&ML,DL basic | [Python&ML,DL basic](https://www.notion.so/wew1202/1-2ec144618cd747049c5dfa452db51fbc) | 	  
+2022|Text mining | [Text mining](https://www.notion.so/wew1202/2-c23b32e178ed47a0accea1af5d086c73) | 
+2022|Reference study | [reference_study](https://github.com/bibiana1202/reference_study) | Image Detection
+2022|algorithm_study| [algorithm_study](https://github.com/bibiana1202/algorithm_study) | 
+2022|Flask| [Flask](https://github.com/bibiana1202/Flask) | 
+2024|개인공부| [개인공부](https://github.com/bibiana1202/Study) | 	   
+2024|MSA 기반 Full Stack 개발 전문가 양성 과정 작업 공간 | [MFS_workspace](https://github.com/bibiana1202/MFS_workspace)|
+2024|MSA 기반 Full Stack 개발 전문가 양성 과정 작업 공간_1| [MFS_workspace_2024-11-06](https://github.com/bibiana1202/MFS_workspace_2024-11-06)|
+
+
 <p align="center">
 	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=bibiana1202&theme=darcula&show_icons=true">
 </p>
