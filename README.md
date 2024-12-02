@@ -54,23 +54,6 @@
 	<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white">
 	<img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white">
 
-	 	  
-___
-# Study Log
-Date | Skill | Link | etc 
-|--------|--------|--------|------|	  
-2022|Python&ML,DL basic | [Python&ML,DL basic](https://www.notion.so/wew1202/1-2ec144618cd747049c5dfa452db51fbc) | 	  
-2022|Text mining | [Text mining](https://www.notion.so/wew1202/2-c23b32e178ed47a0accea1af5d086c73) | 
-2022|Reference study | [reference_study](https://github.com/bibiana1202/reference_study) | Image Detection
-2022|algorithm_study| [algorithm_study](https://github.com/bibiana1202/algorithm_study) | 
-2022|Flask| [Flask](https://github.com/bibiana1202/Flask) | 
-2023|Unity&C#| [Unity&C#](https://github.com/bibiana1202/Unity-for-fun) | 	   
-2023|java/spring | [java/spring](https://organize1202.tistory.com/category/Anna%20belly%20belly%20hard/java_spring)|
-2023| C#-Winform | [Winform](https://github.com/bibiana1202/Csharp-winformSQL)|
-2023| C#-WPF | [WPF]() |
-2024| java-spring 본격적으로 시작 | |
-
-
 
 ***
 # Works
@@ -80,7 +63,7 @@ Date | Skill | Link | etc
 - [음악 가사 생성 프로젝트](https://github.com/bibiana1202/lyrics_generator_project)	
 - [VinBigData-Chest-X-ray-Image-Detection](https://github.com/bibiana1202/VinBigData-Chest-X-ray-Image-Detection)	
 - [Prediction of lymphadenopathy in breast cancer](https://github.com/bibiana1202/public-4th-place-DACON-AI-competition-for-predicting-lymphadenopathy-of-breast-cancer)
-- 2023~2024 : EMR/OCS 개발자 (진료간호)	
+- [Spring 레거시 프로젝트 - EmotionLog](https://github.com/bibiana1202/emotionLog)
 ***
 <p align="center">
 	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=bibiana1202&theme=darcula&show_icons=true">
