@@ -9,10 +9,11 @@
   * 한국외국어대학교 글로벌캠퍼스 컴퓨터공학과 졸업 (2012~2017)
 
 
-<p align="center">
+<!-- <p align="center">
 	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=bibiana1202&theme=darcula&show_icons=true">
-</p>
+</p> -->
 
+<img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/22d29680-085d-4f66-a428-cb08ba45cff6" />
 
 ***
 
