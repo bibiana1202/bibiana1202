@@ -3,7 +3,7 @@
 ---
 ## PROFILE 
 * ### Name : 박혜정 <a href="mailto:wew1202@naver.com"><img src="https://img.shields.io/badge/Naver Mail-03C75A?style=plastic&logo=Naver&logoColor=white">
-* ### Blog : <a href="https://park-hye-jung.notion.site/">![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=plastic&logo=notion&logoColor=white) <a href="https://organize1202.tistory.com/">![Tistory](https://img.shields.io/badge/Tistory-%23000000.svg?style=plastic&logo=tistory&logoColor=#000000)
+* ### Blog : <a href="[https://park-hye-jung.notion.site](https://park-hye-jung.notion.site/cc7e228feb7244f0b1ccda83b943c749?source=copy_link)/">![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=plastic&logo=notion&logoColor=white) <a href="[https://organize1202.tistory.com/](https://bibiana1202.github.io/)">![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-%23181717.svg?style=plastic&logo=github&logoColor=white)
 
 * ### Level of Education
   * 한국외국어대학교 글로벌캠퍼스 컴퓨터공학과 졸업 (2012~2017)
