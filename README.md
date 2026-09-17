@@ -1,13 +1,13 @@
 # anna.dev
 
-<table>
+<table width="100%">
 <tr>
-<td width="34%" valign="middle">
+<td width="42%" valign="middle">
 
-<img src="./fortune-cat.jpeg" width="260" alt="Fortune cat">
+<img src="./fortune-cat.jpeg" width="380" alt="Fortune cat">
 
 </td>
-<td width="66%" valign="middle">
+<td width="58%" valign="middle">
 
 ### Backend Developer
 
@@ -17,43 +17,12 @@ Building and operating backend services,
 with experience across healthcare systems,  
 cloud infrastructure, and blockchain services.
 
+<a href="mailto:wew1202@naver.com"><img src="https://img.shields.io/badge/Naver%20Mail-1F4D3A?style=flat-square&logo=naver&logoColor=white" alt="Naver Mail"></a>
+<a href="mailto:wew1205@gmail.com"><img src="https://img.shields.io/badge/Gmail-1F4D3A?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"></a>
+
 </td>
 </tr>
 </table>
-
----
-
-## ![section](https://img.shields.io/badge/%20-1F4D3A?style=flat-square) Contact
-
-<a href="mailto:wew1202@naver.com">
-  <img src="https://img.shields.io/badge/Naver%20Mail-1F4D3A?style=flat-square&logo=naver&logoColor=white" alt="Naver Mail">
-</a>
-&nbsp; wew1202@naver.com
-
-<br>
-
-<a href="mailto:wew1205@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-1F4D3A?style=flat-square&logo=gmail&logoColor=white" alt="Gmail">
-</a>
-&nbsp; wew1205@gmail.com
-<br><br><br>
-
----
-
-## ![section](https://img.shields.io/badge/%20-1F4D3A?style=flat-square) Links
-
-<a href="https://bibiana1202.github.io/">
-  <img src="https://img.shields.io/badge/bibiana1202.github.io-1F4D3A?style=for-the-badge&logo=github&logoColor=white" alt="Dev Blog">
-</a>
-&nbsp;
-<a href="https://park-hye-jung.notion.site/cc7e228feb7244f0b1ccda83b943c749">
-  <img src="https://img.shields.io/badge/Resume-1F4D3A?style=for-the-badge&logo=notion&logoColor=white" alt="Resume">
-</a>
-
-Notes on backend development, system design, databases,  
-infrastructure, and healthcare IT.
-
-<br><br><br>
 
 ---
 
@@ -63,6 +32,7 @@ infrastructure, and healthcare IT.
 
 ![Node.js](https://img.shields.io/badge/Node.js-1F4D3A?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-1F4D3A?style=flat-square&logo=express&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-1F4D3A?style=flat-square&logo=javascript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-1F4D3A?style=flat-square&logo=typescript&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-1F4D3A?style=flat-square&logo=nestjs&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-1F4D3A?style=flat-square&logo=springboot&logoColor=white)
@@ -134,3 +104,10 @@ B.S. in Computer Engineering · 2012 – 2017
 
 **Seoul Women's College of Nursing**  
 B.S. in Nursing · 2018 – 2022
+
+---
+
+<p align="right">
+  <sub>Last updated · 2026-09-17</sub>
+</p>
+
