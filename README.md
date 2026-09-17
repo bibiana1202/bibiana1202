@@ -20,6 +20,9 @@ cloud infrastructure, and blockchain services.
 <a href="mailto:wew1202@naver.com"><img src="https://img.shields.io/badge/Naver%20Mail-1F4D3A?style=flat-square&logo=naver&logoColor=white" alt="Naver Mail"></a>
 <a href="mailto:wew1205@gmail.com"><img src="https://img.shields.io/badge/Gmail-1F4D3A?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"></a>
 
+<a href="https://bibiana1202.github.io/"><img src="https://img.shields.io/badge/bibiana1202.github.io-1F4D3A?style=flat-square&logo=github&logoColor=white" alt="Dev Blog"></a>
+<a href="https://park-hye-jung.notion.site/cc7e228feb7244f0b1ccda83b943c749"><img src="https://img.shields.io/badge/Resume-1F4D3A?style=flat-square&logo=notion&logoColor=white" alt="Resume"></a>
+
 </td>
 </tr>
 </table>
