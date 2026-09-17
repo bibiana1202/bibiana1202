@@ -24,6 +24,8 @@ cloud infrastructure, and blockchain services.
 </tr>
 </table>
 
+<br>
+
 ---
 
 ## ![section](https://img.shields.io/badge/%20-1F4D3A?style=flat-square) Stack
@@ -78,7 +80,7 @@ cloud infrastructure, and blockchain services.
 ![Crypto Wallet](https://img.shields.io/badge/Crypto%20Wallet-1F4D3A?style=flat-square)
 ![RPC](https://img.shields.io/badge/RPC-1F4D3A?style=flat-square)
 
-<br><br><br>
+<br>
 
 ---
 
@@ -104,6 +106,8 @@ B.S. in Computer Engineering · 2012 – 2017
 
 **Seoul Women's College of Nursing**  
 B.S. in Nursing · 2018 – 2022
+
+<br>
 
 ---
 
